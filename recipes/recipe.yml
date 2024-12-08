@@ -52,6 +52,7 @@ modules:
       - intel-media-driver
       - snapper
       - btrbk
+      - syncthing
     remove:
       - toolbox
 
