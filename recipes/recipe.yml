@@ -54,6 +54,7 @@ modules:
       - intel-media-driver
       - snapper
       - btrbk
+      - libvirt-daemon-kvm
       - syncthing
     remove:
       - toolbox
@@ -76,6 +77,8 @@ modules:
         - com.vscodium.codium
         - org.libreoffice.LibreOffice
         - org.kde.kamoso
+        - org.kde.kolourpaint
+        - org.virt_manager.virt-manager
 
   - type: fonts
     fonts:
