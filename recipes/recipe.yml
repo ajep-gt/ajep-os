@@ -74,7 +74,6 @@ modules:
         - com.vscodium.codium
         - org.libreoffice.LibreOffice
         - org.kde.kamoso
-        - org.kde.skanpage
 
   - type: fonts
     fonts:
