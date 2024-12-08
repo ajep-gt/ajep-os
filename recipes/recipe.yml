@@ -17,6 +17,8 @@ modules:
   - type: rpm-ostree
     install:
       - neovim
+      - chromium
+      - htop
       - python3-neovim
       - zsh
       - tmux
