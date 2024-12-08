@@ -14,3 +14,5 @@ rpm-ostree override remove \
   libswresample-free \
   libswscale-free \
   --install ffmpeg
+rpm-ostree override remove kitty
+rpm-ostree override remove nwg-panel
