@@ -50,7 +50,6 @@ modules:
       - python3-pip
       - waybar
       - wofi
-      - kate
       - intel-media-driver
       - snapper
       - btrbk
@@ -81,6 +80,7 @@ modules:
         - org.kde.kolourpaint
         - org.virt_manager.virt-manager
         - org.kde.okular
+        - org.kde.isoimagewriter
 
   - type: fonts
     fonts:
