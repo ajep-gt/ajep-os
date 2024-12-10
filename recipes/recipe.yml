@@ -41,8 +41,8 @@ modules:
       - cockpit-storaged
       - qt5ct
       - qt6ct
-      - papirus-icon-theme
-      - papirus-icon-theme-dark
+      #      - papirus-icon-theme
+      #      - papirus-icon-theme-dark
       - autojump
       - zsh-autosuggestions
       - zsh-syntax-highlighting
