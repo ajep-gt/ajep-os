@@ -81,6 +81,7 @@ modules:
         - org.virt_manager.virt-manager
         - org.kde.okular
         - org.kde.isoimagewriter
+        - org.gtk.Gtk3theme.Breeze
 
   - type: fonts
     fonts:
