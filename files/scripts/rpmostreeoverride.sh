@@ -16,3 +16,4 @@ rpm-ostree override remove \
   --install ffmpeg
 rpm-ostree override remove kitty
 rpm-ostree override remove nwg-panel
+rpm-ostree override remove nano-default-editor --install vim-default-editor
