@@ -47,8 +47,6 @@ modules:
       - snapper
       - btrbk
       - libvirt-daemon-kvm
-      - syncthing
-      - nodejs-bash-language-server
       - htop
     remove:
       - toolbox
